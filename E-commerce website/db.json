@@ -1,0 +1,236 @@
+{
+  "sellerfile": [
+    {
+      "id": "b8db",
+      "name": "lavish",
+      "email": "lavishngar@gmail.com",
+      "password": "lavish@213"
+    },
+    {
+      "id": "4895",
+      "name": "laivhs",
+      "email": "gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "44a0",
+      "name": "a",
+      "email": "a",
+      "password": "a"
+    },
+    {
+      "id": "a571",
+      "name": "a",
+      "email": "lavishnagar758@gmail.com",
+      "password": "a"
+    },
+    {
+      "id": "fe8a",
+      "name": "a",
+      "email": "a",
+      "password": "a"
+    },
+    {
+      "id": "bc63",
+      "name": "adsf",
+      "email": "d",
+      "password": "d"
+    },
+    {
+      "id": "5021",
+      "name": "adsf",
+      "email": "adsf",
+      "password": "afds"
+    },
+    {
+      "id": "3cdd",
+      "name": "lavish",
+      "email": "lavishnagar758@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "5a12",
+      "name": "dhruv",
+      "email": "dhruvnagar758@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "98e9",
+      "name": "dsg",
+      "email": "",
+      "password": ""
+    }
+  ],
+  "products": [
+    {
+      "id": "4f8d",
+      "name": "i Phone",
+      "price": "97000",
+      "color": "white",
+      "catagory": "Apple",
+      "Description": "Best Product",
+      "URL": "https://5.imimg.com/data5/SELLER/Default/2023/6/312836485/NC/NN/JO/4630526/apple-iphone-14-plus-128gb-starlight-mobile-phone-500x500.jpg"
+    },
+    {
+      "id": "5cbb",
+      "name": "bag",
+      "price": "450",
+      "color": "black",
+      "catagory": "Bag",
+      "Description": "Nice Bag!",
+      "URL": "https://images-cdn.ubuy.co.in/633aab9de5b391495f2677d4-laptop-bag-15-6-inch-business-briefcase.jpg"
+    },
+    {
+      "id": "8f38",
+      "name": "story book",
+      "price": "230",
+      "color": "grey",
+      "catagory": "Book",
+      "Description": "Story Book For Childrens",
+      "URL": "https://cdn5.vectorstock.com/i/1000x1000/41/69/story-book-with-cartoon-princesses-and-princes-vector-22534169.jpg"
+    },
+    {
+      "id": "cca3",
+      "name": "shirt",
+      "price": "445",
+      "color": "blue",
+      "catagory": "Cotton Shirts",
+      "Description": "That Shirt is brannded shirt",
+      "URL": "https://5.imimg.com/data5/JH/SP/MY-33710583/men-s-blue-shirt.jpg"
+    },
+    {
+      "id": "fd14",
+      "name": "kurta",
+      "price": "250",
+      "color": "white",
+      "catagory": "Kurta",
+      "Description": "For a Lavish LifeStye wear kurta",
+      "URL": "https://valintaformens.com/cdn/shop/files/photo_2023-07-27_21-36-43.jpg?v=1690523169&width=717"
+    },
+    {
+      "id": "b7fe",
+      "name": "jeans",
+      "price": "900",
+      "color": "blue",
+      "catagory": "Raymond Jeans",
+      "Description": "Quality of that Jeans is best!",
+      "URL": "https://assets.ajio.com/medias/sys_master/root/20230428/05kn/644b6977d55b7d0c6385c134/-473Wx593H-469479190-blue-MODEL.jpg"
+    },
+    {
+      "id": "506d",
+      "name": "Shoes",
+      "price": "699",
+      "color": "Red",
+      "catagory": "SHOE",
+      "Description": "Best Shoe For Running!",
+      "URL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI7fmn4qYOzFtybvSs_P9dlIVe7jajTP7tRQ&usqp=CAU"
+    },
+    {
+      "id": "24d9",
+      "name": "Books",
+      "price": "294",
+      "color": "grey",
+      "catagory": "Comptition Book",
+      "Description": "Best book for math",
+      "URL": "https://thumbs.dreamstime.com/b/stack-books-isolated-white-background-34637153.jpg"
+    },
+    {
+      "id": "7927",
+      "name": "HP",
+      "price": "59000",
+      "color": "Silver",
+      "catagory": "Laptop",
+      "Description": "Dell Laptop For coding",
+      "URL": "https://5.imimg.com/data5/KO/SX/RG/SELLER-17889604/silver-hp-laptop-500x500.jpg"
+    },
+    {
+      "id": "760e",
+      "name": "Umbrella",
+      "price": "340",
+      "color": "black",
+      "catagory": "Umbrella",
+      "Description": "Best Product",
+      "URL": "https://m.media-amazon.com/images/I/61g7qrq9bQL._AC_UY1100_.jpg"
+    },
+    {
+      "id": "cdf8",
+      "name": "Tractor Toy",
+      "price": "400/-",
+      "color": "yellow",
+      "catagory": "Toy",
+      "Description": "A Toy For the Childrens",
+      "URL": "https://snooplay.in/cdn/shop/products/TractorwithTrolleyToyfrontimage.png?v=1616233054"
+    },
+    {
+      "id": "7cdb",
+      "name": "Car Toy",
+      "price": "650/-",
+      "color": "red",
+      "catagory": "Toy",
+      "Description": "A Toy For the Childrens",
+      "URL": "https://m.media-amazon.com/images/I/61cAWGyFiYL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "3b7e",
+      "name": "afds",
+      "email": "afds",
+      "password": "dfa"
+    },
+    {
+      "id": "fab9",
+      "name": "lavish",
+      "email": "lavishnagar758@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "5479",
+      "name": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "a58e",
+      "name": "a",
+      "email": "abcd",
+      "password": "abc"
+    },
+    {
+      "id": "87e8",
+      "name": "a",
+      "email": "a",
+      "password": "a"
+    },
+    {
+      "id": "64be",
+      "name": "laivsh",
+      "email": "@gmia.com",
+      "password": "12345"
+    },
+    {
+      "id": "7d48",
+      "name": "dfafd",
+      "email": "",
+      "password": "afd"
+    },
+    {
+      "id": "10ca",
+      "name": "bruce",
+      "email": "mail.com",
+      "password": "123"
+    },
+    {
+      "id": "ff4f",
+      "name": "viaksh",
+      "email": "gmai.com",
+      "password": "1234"
+    },
+    {
+      "id": "12fb",
+      "name": "lavih",
+      "email": "lavishnagar758@gmail.com",
+      "password": "1234"
+    }
+  ]
+}

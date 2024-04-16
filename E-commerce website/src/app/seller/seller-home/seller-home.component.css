@@ -1,0 +1,42 @@
+
+div{
+    margin-left: 0px;
+}
+.productheading{
+    color: white;
+}
+
+table{
+    
+    text-align: left;
+    color: white;
+    border-collapse: collapse;
+}
+table td,table th{
+    border: 1px solid black;
+    padding: 10px;
+    min-width: 180px;
+}
+
+td,th{
+    text-align: center;
+}
+
+table th{
+    color: red;
+}
+.btn{
+    padding: 6px 13px;
+    color: white;
+    background-color: rgb(241, 40, 40);
+    cursor: pointer;
+  border: 2px solid brown;
+}
+.btn:hover{
+    background-color: rgb(151, 4, 4);
+}
+img{
+    width: 140px;
+    height: 110px;
+    
+}

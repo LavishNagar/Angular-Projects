@@ -1,0 +1,33 @@
+<div class="user-auth">
+    <div class="user-signup" *ngIf="!showLogin">
+        <form #userSignup="ngForm" (ngSubmit)="signUp(userSignup.value)" class="form">
+            <h1 class="signupheading" style="color: white;">User Sign-Up</h1>
+            <input type="text" placeholder="Enter user name" name="name" ngModel class="form-input">
+            <input type="text" placeholder="Enter user email" name="email" ngModel class="form-input">
+            <input type="password" placeholder="Enter user password" name="password" ngModel class="form-input">
+            <button class="form-button">Sign Up</button>
+
+            <p class="message">Already Have Account ? <a (click)="openLogin()">Click Here.</a></p>
+    
+        </form>
+
+    </div>
+
+    <div class="user-login" *ngIf="showLogin">
+
+        <form #userLogin="ngForm" (ngSubmit)="Login(userLogin.value)" class="form">
+            <h1 class="signupheading" style="color: white;">User Login</h1>
+            
+            <input type="text" placeholder="Enter user email" name="email" ngModel class="form-input">
+            <input type="password" placeholder="Enter user password" name="password" ngModel class="form-input">
+            <button class="form-button">Login Up</button>
+
+            <p class="message">Want to create Account ? <a (click)="openSignUp()">Click Here.</a></p>
+    
+        </form>
+    </div>
+
+
+</div>
+
+

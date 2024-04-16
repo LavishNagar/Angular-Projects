@@ -1,0 +1,26 @@
+<div *ngIf="changeVar === 'check'">
+  <div class="row search-item" *ngFor="let item of searchResult">
+    <div class="col-sm-3">
+      <a routerLink="/details/{{ item.id }}">
+        <img src="{{ item.URL }}" alt="" />
+      </a>
+    </div>
+    <div class="col-sm-8 details">
+      <a routerLink="/details/{{ item.id }}"
+        ><h5>{{ item.name }}</h5></a
+      >
+      <p>
+        <b>Price:{{ item.price }}</b>
+      </p>
+      <p>
+        <span>Color:{{ item.color }}</span>
+        <span>catagory:{{ item.catagory }}</span>
+      </p>
+      <p>{{ item.Description }}</p>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="changeVar === 'notcheck'">
+  <h1>OOPS! Product Not Exist.</h1>
+</div>

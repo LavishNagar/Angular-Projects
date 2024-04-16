@@ -1,0 +1,74 @@
+/* You can add global styles to this file, and also import other style files */
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(13, 32, 57);
+ 
+    
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 400px;
+}
+
+.signupheading,.loginheading{
+    padding:25px 0px 10px 25px;
+    color: black;
+}
+
+
+.form-button{
+    margin-bottom: 20px;
+    font-size: 15px;
+    height: 40px;
+    border: 2px solid black;
+    cursor: pointer;
+    background-color: green;
+
+}
+.form-input{
+        font-size: 16px;
+    
+        height: 45px;
+        margin-bottom: 40px;
+        border-radius: 3px;
+        
+        padding-left: 10px;
+        border: 2px solid black;
+        color: blueviolet;
+        
+    }
+    .a{
+    margin-bottom: 20px;
+
+}
+.add-product{
+    text-align: center;
+}
+.add-product input{
+    height: 42px;
+    font-size: 18px;
+    border-radius: 6px;
+}
+.p_message{
+    color:green;
+    
+}
+
+.loginerror{
+    color: red;
+}
+
+.carousel-caption{
+    position: relative;
+    width: 70%;
+ 
+
+   
+
+    background: rgb(0, 0, 0);
+    border-radius: 5px;
+}

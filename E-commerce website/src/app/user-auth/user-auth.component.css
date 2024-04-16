@@ -1,0 +1,8 @@
+.message{
+    color: white;
+    margin-top: 5px;
+}
+.message a{
+    color: blueviolet;
+    cursor: pointer;
+}
